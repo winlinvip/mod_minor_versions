@@ -1,5 +1,5 @@
 package mod_minor_versions
 
 func Version() string {
-	return "1.0.3"
+	return "0.0.7"
 }
